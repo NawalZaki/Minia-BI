@@ -1,0 +1,3 @@
+Welcome BI Minia Track :)
+
+Version Control git & github
